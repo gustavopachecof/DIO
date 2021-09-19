@@ -1,0 +1,14 @@
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\bin\Debug\netcoreapp3.1\CadastroDeSeriesDIO.exe
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\bin\Debug\netcoreapp3.1\CadastroDeSeriesDIO.deps.json
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\bin\Debug\netcoreapp3.1\CadastroDeSeriesDIO.runtimeconfig.json
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\bin\Debug\netcoreapp3.1\CadastroDeSeriesDIO.runtimeconfig.dev.json
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\bin\Debug\netcoreapp3.1\CadastroDeSeriesDIO.dll
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\bin\Debug\netcoreapp3.1\CadastroDeSeriesDIO.pdb
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\obj\Debug\netcoreapp3.1\CadastroDeSeriesDIO.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\obj\Debug\netcoreapp3.1\CadastroDeSeriesDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\obj\Debug\netcoreapp3.1\CadastroDeSeriesDIO.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\obj\Debug\netcoreapp3.1\CadastroDeSeriesDIO.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\obj\Debug\netcoreapp3.1\CadastroDeSeriesDIO.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\obj\Debug\netcoreapp3.1\CadastroDeSeriesDIO.dll
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\obj\Debug\netcoreapp3.1\CadastroDeSeriesDIO.pdb
+C:\Users\Gustavo\source\repos\CadastroDeSeriesDIO\CadastroDeSeriesDIO\obj\Debug\netcoreapp3.1\CadastroDeSeriesDIO.genruntimeconfig.cache
