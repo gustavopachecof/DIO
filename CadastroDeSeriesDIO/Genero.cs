@@ -5,7 +5,7 @@ using System.Text;
 namespace CadastroDeSeriesDIO
 {
     public enum Genero
-    {                       #Comment
+    {                       
         Acao = 1,
         Aventura = 2,
         Comedia = 3,
